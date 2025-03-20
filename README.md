@@ -1,0 +1,1 @@
+The Online Food Order System is a Java-based console application that allows users to browse menu categories (Soups, Starters, Main Course, and Desserts), select items, and generate a bill. It maintains an order summary and calculates the total cost dynamically. The system uses a loop for continuous ordering and exits upon bill generation.
